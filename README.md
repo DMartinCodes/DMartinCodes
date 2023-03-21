@@ -7,4 +7,4 @@
 - 💬 Ask me about making the switch to using Linux operating systems, and where to get really good paints.
 - 📫 How to reach me: shoot me an email at dennis.martin.1010@outlook.com!
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I got into quantum computing before binary computing! My extracurricular background is focused on IBM quantum computing systems.
+
